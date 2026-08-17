@@ -10,7 +10,7 @@ Nainstalované rozšíření v prohlížeči pro spouštění userscriptů (nap�
 
 1. Nainstalujte si výše uvedené rozšíření do prohlížeče
 2. Vytvořte nový skript
-3. Vložte/nahrajte [script](sledujteto_premium_bypasser.js) a uložte
+3. Vložte/nahrajte [script](prehrajto_bypasser.js) a uložte
 
 ## Implementace
 
